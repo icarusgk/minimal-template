@@ -1,5 +1,5 @@
 {
-  "name": "icarus-template",
+  "name": "@icarusgk/icarus-template",
   "description": "Minimal template for new projects.",
   "version": "1.0.0",
   "private": true,
